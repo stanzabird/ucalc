@@ -1,3 +1,3 @@
 AUTOMAKE_OPTIONS = foreign
 bin_PROGRAMS = ucalc
-ucalc_SOURCES = ucalc.cc
+ucalc_SOURCES = ucalc.c
